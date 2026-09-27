@@ -1,6 +1,6 @@
 # From Sketches to UML
 
-This repository is the official companion for the research paper on using **Multimodal Large Language Models (MM-LLMs)** to generate **UML class models** from images of hand-drawn or digital class diagrams.
+This repository is the official companion for the research paper on using **Multimodal Large Language Models (MM-LLMs)** to generate **UML class models** from images of hand-drawn class diagrams.
 
 ## Repository Contents
 
@@ -11,7 +11,3 @@ This repository is the official companion for the research paper on using **Mult
 
 The goal of this research is to evaluate the capability of modern MM-LLMs to bridge the gap between visual software architectural sketches and formal software models. By leveraging multimodal vision-language understanding, the models process input images (`*.jpg`) alongside structured instructions (`prompt_class_models_from_images.txt`) to extract classes, attributes, methods, and relationships.
 
-## License & Usage
-
-* The image dataset (`*.jpg`) consists of public domain resources and is freely available for benchmarking and further research.
-* Please cite the associated paper if you use these prompt templates or dataset images in your own research.
